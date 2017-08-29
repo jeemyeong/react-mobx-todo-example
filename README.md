@@ -2,7 +2,7 @@
 
 [![dependencies Status](https://david-dm.org/edoko/react-mobx-todo-example/status.svg)](https://david-dm.org/edoko/react-mobx-todo-example) [![devDependencies Status](https://david-dm.org/edoko/react-mobx-todo-example/dev-status.svg)](https://david-dm.org/edoko/react-mobx-todo-example?type=dev) [![Build Status](https://travis-ci.org/edoko/react-mobx-todo-example.svg?branch=master)](https://travis-ci.org/edoko/react-mobx-todo-example)
 
-[Live Demo](http://react-js-sample.herokuapp.com/)
+[Live Demo](http://react-mobx-todo-example.herokuapp.com/)
 
 This app is built using React.js + MobX Boilerplate.
 * React.js (custom-react-app)
