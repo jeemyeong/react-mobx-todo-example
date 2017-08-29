@@ -1,0 +1,17 @@
+.TodoList{
+    margin: auto;
+}
+
+.inputText {
+    width: 20%!important;
+    text-align: center;
+}
+
+.removeBtn {
+    margin-bottom: 2%;
+}
+
+.todoTitle {
+    font-size: 3rem;
+}
+

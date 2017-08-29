@@ -1,0 +1,44 @@
+{
+  "name": "react-mobx-todo-example",
+  "version": "1.0.0",
+  "description": "React.js + MobX Todo App Boilerplate",
+  "author": {
+    "name": "Seongmin Park",
+    "email": "me@komalab.io",
+    "url": "http://komalab.io/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/edoko/react-mobx-todo-example.git"
+  },
+  "bugs": {
+    "url": "http://github.com/edoko/react-mobx-todo-example/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://www.opensource.org/licenses/MIT"
+    }
+  ],
+  "keywords": [
+    "react",
+    "boilerplate",
+    "reactsample",
+    "mobx"
+  ],
+  "dependencies": {
+    "custom-react-scripts": "0.2.0",
+    "mobx": "^3.2.2",
+    "mobx-react": "^4.2.2",
+    "node-uuid": "^1.4.8",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-materialize": "^1.0.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
